@@ -10,11 +10,11 @@ end
 
 
 def select_value_and_count_of_most_prolific_species
-  "Write your SQL query here"
+  "SELECT MAX(characters.species) from characters; "
 end
 
 def select_name_and_series_subgenres_of_authors
-  "Write your SQL query here"
+  "SELECT "
 end
 
 def select_series_title_with_most_human_characters
